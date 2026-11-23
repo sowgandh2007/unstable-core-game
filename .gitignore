@@ -1,0 +1,13 @@
+# OS & System files
+desktop.ini
+Thumbs.db
+.DS_Store
+*.tmp
+*.log
+*.bak
+
+# Unity Build Debug & Crash dumps
+*_BurstDebugInformation_DoNotShip/
+*.dmp
+CrashReports/
+UnityCrashHandler64.dmp
